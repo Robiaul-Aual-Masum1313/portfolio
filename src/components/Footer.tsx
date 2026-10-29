@@ -66,7 +66,7 @@ export default function Footer() {
               >
                 <LinkedinIcon className="w-4 h-4" />
               </a>
-              <a
+              {/* <a
                 href={personalInfo.twitter}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -74,7 +74,7 @@ export default function Footer() {
                 className="w-9 h-9 rounded-lg bg-slate-900 border border-slate-800 flex items-center justify-center text-slate-400 hover:text-sky-400 hover:border-sky-500/40 transition-all hover:scale-105"
               >
                 <TwitterIcon className="w-4 h-4" />
-              </a>
+              </a> */}
               <a
                 href={`mailto:${personalInfo.email}`}
                 aria-label="Email Me"
@@ -119,7 +119,7 @@ export default function Footer() {
               <li>
                 <a
                   href="/resume.pdf"
-                  download="Alex_Rivera_Resume.pdf"
+                  download="Robiaul_Aual_Masum_Resume.pdf"
                   className="text-indigo-400 hover:text-cyan-300 font-semibold transition-colors flex items-center gap-1"
                 >
                   <FileText className="w-3.5 h-3.5" />

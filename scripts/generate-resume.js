@@ -50,10 +50,10 @@ stream
 BT
 /F1 24 Tf
 50 740 Td
-(ALEX RIVERA) Tj
+(ROBIAUL AUAL MASUM) Tj
 /F2 12 Tf
 0 -22 Td
-(Frontend & MERN Stack Developer | alex.rivera.dev@gmail.com | Portfolio: alexrivera.dev) Tj
+(Frontend & MERN Stack Developer | Robiaul555@gmail.com | Dhaka, Bangladesh) Tj
 0 -28 Td
 /F1 14 Tf
 (PROFESSIONAL SUMMARY) Tj

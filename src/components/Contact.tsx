@@ -109,7 +109,7 @@ export default function Contact() {
               <div className="pt-2">
                 <a
                   href="/resume.pdf"
-                  download="Alex_Rivera_Resume.pdf"
+                  download="Robiaul_Aual_Masum_Resume.pdf"
                   className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-indigo-600 hover:bg-indigo-500 text-white text-xs font-semibold shadow transition-all hover:scale-[1.02]"
                 >
                   <Download className="w-4 h-4" />
@@ -209,7 +209,7 @@ export default function Contact() {
                   <LinkedinIcon className="w-4 h-4" />
                   <span>LinkedIn</span>
                 </a>
-                <a
+                {/* <a
                   href={personalInfo.twitter}
                   target="_blank"
                   rel="noopener noreferrer"
@@ -217,7 +217,7 @@ export default function Contact() {
                 >
                   <TwitterIcon className="w-4 h-4" />
                   <span>Twitter / X</span>
-                </a>
+                </a> */}
               </div>
             </div>
           </div>

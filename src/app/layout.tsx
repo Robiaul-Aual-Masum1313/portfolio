@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Alex Rivera | Front-End & MERN Stack Developer Portfolio",
+  title: "Robiaul Aual Masum | Front-End & MERN Stack Developer Portfolio",
   description:
     "Professional portfolio of a passionate Front-End & MERN Stack Developer skilled in JavaScript, TypeScript, React.js, Next.js, Node.js, Express, and MongoDB. Open for immediate hiring and junior roles.",
   keywords: [
@@ -30,9 +30,9 @@ export const metadata: Metadata = {
     "Fresher Developer",
     "Entry-level Software Engineer",
   ],
-  authors: [{ name: "Alex Rivera" }],
+  authors: [{ name: "Robiaul Aual Masum" }],
   openGraph: {
-    title: "Alex Rivera | Front-End & MERN Stack Developer",
+    title: "Robiaul Aual Masum | Front-End & MERN Stack Developer",
     description:
       "Crafting modern, high-performance web applications with React, Next.js, TypeScript, and the MERN stack.",
     type: "website",

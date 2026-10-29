@@ -51,7 +51,7 @@ export default function ResumeModal({ isOpen, onClose }: ResumeModalProps) {
             </button>
             <a
               href="/resume.pdf"
-              download="Alex_Rivera_Resume.pdf"
+              download="Robiaul_Aual_Masum_Resume.pdf"
               className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-lg bg-indigo-600 hover:bg-indigo-500 text-white text-xs font-semibold shadow transition-all"
             >
               <Download className="w-4 h-4" />
@@ -194,7 +194,7 @@ export default function ResumeModal({ isOpen, onClose }: ResumeModalProps) {
           </span>
           <a
             href="/resume.pdf"
-            download="Alex_Rivera_Resume.pdf"
+            download="Robiaul_Aual_Masum_Resume.pdf"
             className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-gradient-to-r from-indigo-600 to-cyan-500 text-white text-xs font-semibold shadow hover:scale-105 transition-all"
           >
             <Download className="w-4 h-4" />

@@ -110,7 +110,7 @@ export default function Navbar({ onOpenResume }: NavbarProps) {
           <div className="hidden lg:flex items-center gap-3">
             <a
               href="/resume.pdf"
-              download="Alex_Rivera_Resume.pdf"
+              download="Robiaul_Aual_Masum_Resume.pdf"
               className="inline-flex items-center gap-2 px-3.5 py-2 text-xs font-semibold rounded-lg bg-slate-800/80 hover:bg-slate-800 text-slate-200 hover:text-white border border-slate-700/80 transition-all hover:border-slate-600 shadow-sm"
               title="Download Resume"
             >
@@ -131,7 +131,7 @@ export default function Navbar({ onOpenResume }: NavbarProps) {
           <div className="flex items-center gap-2 md:hidden">
             <a
               href="/resume.pdf"
-              download="Alex_Rivera_Resume.pdf"
+              download="Robiaul_Aual_Masum_Resume.pdf"
               className="px-2.5 py-1.5 text-xs font-medium rounded-lg bg-slate-800/80 text-slate-200 border border-slate-700 flex items-center gap-1.5"
             >
               <FileText className="w-3.5 h-3.5 text-indigo-400" />
@@ -175,7 +175,7 @@ export default function Navbar({ onOpenResume }: NavbarProps) {
             <div className="pt-3 mt-2 border-t border-slate-800/80 grid grid-cols-2 gap-2">
               <a
                 href="/resume.pdf"
-                download="Alex_Rivera_Resume.pdf"
+                download="Robiaul_Aual_Masum_Resume.pdf"
                 onClick={() => setIsOpen(false)}
                 className="flex items-center justify-center gap-2 py-2.5 px-3 rounded-xl bg-slate-800 text-slate-200 text-xs font-semibold border border-slate-700"
               >

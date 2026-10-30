@@ -95,17 +95,17 @@ export const portfolioData = {
       },
     ],
     education: [
+      // {
+      //   degree: "Bachelor of Science in Computer Science & Engineering",
+      //   institution: "University / Institute of Technology",
+      //   period: "2021 - 2025",
+      //   description:
+      //     "Focused on Data Structures, Algorithms, Software Engineering, Database Management, and Web Technologies.",
+      // },
       {
-        degree: "Bachelor of Science in Computer Science & Engineering",
-        institution: "University / Institute of Technology",
-        period: "2021 - 2025",
-        description:
-          "Focused on Data Structures, Algorithms, Software Engineering, Database Management, and Web Technologies.",
-      },
-      {
-        degree: "Full-Stack Web Development Bootcamp & Specialization",
-        institution: "Advanced Web Development Certification",
-        period: "2024",
+        degree: "AI-Driven Full Stack Engineering ",
+        institution: "Programming-hero",
+        period: "2026",
         description:
           "Intensive hands-on training on MERN Stack, Next.js, TypeScript, REST APIs, and state management.",
       },
@@ -173,7 +173,6 @@ export const portfolioData = {
         "Mongoose schemas, models, and virtuals",
         "Aggregation pipelines & filtering",
         "Data normalization and indexing",
-        "Transactions and data integrity checks",
       ],
       badge: "Database",
     },
@@ -189,14 +188,13 @@ export const portfolioData = {
         "Flexbox and CSS Grid layout mastery",
         "Cross-browser testing (Chrome, Firefox, Safari)",
         "Fluid typography and dynamic breakpoints",
-        "Touch gestures and accessible interactions",
       ],
       badge: "UI/UX",
     },
     {
       id: "tools",
       icon: "Terminal",
-      title: "DevOps, Git & Best Practices",
+      title: "Git & Best Practices",
       tagline: "Continuous delivery and disciplined version control",
       description:
         "Leveraging modern development tools, Git version control, GitHub pull requests, Turbopack, and cloud deployment on Vercel, Netlify, and Render.",

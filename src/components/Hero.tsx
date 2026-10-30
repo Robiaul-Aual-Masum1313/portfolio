@@ -154,7 +154,7 @@ export default function Hero({ onOpenResumeModal }: HeroProps) {
                 >
                   <LinkedinIcon className="w-4 h-4" />
                 </a>
-                <a
+                {/* <a
                   href={personalInfo.twitter}
                   target="_blank"
                   rel="noopener noreferrer"
@@ -162,7 +162,7 @@ export default function Hero({ onOpenResumeModal }: HeroProps) {
                   className="p-2.5 rounded-lg bg-slate-900/80 border border-slate-800 text-slate-400 hover:text-sky-400 hover:border-sky-500/40 hover:bg-slate-800 transition-all hover:scale-110"
                 >
                   <TwitterIcon className="w-4 h-4" />
-                </a>
+                </a> */}
                 <button
                   onClick={handleCopyEmail}
                   className="flex items-center gap-1.5 px-3 py-2 rounded-lg bg-slate-900/80 border border-slate-800 text-slate-400 hover:text-indigo-300 hover:border-indigo-500/40 text-xs transition-all"
